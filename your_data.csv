@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,Income,SubscriptionType,Churn
+1001,Male,25,45000,Basic,Yes
+1002,Female,30,52000,Premium,No
+1003,Female,22,31000,Basic,Yes
+1004,Male,35,58000,Standard,No
+1005,Female,29,60000,Premium,No
+1006,Male,40,62000,Standard,Yes
+1007,Male,31,48000,Basic,No
+1008,Female,27,51000,Standard,No
+1009,Male,24,40000,Basic,Yes
+1010,Female,33,55000,Premium,No
